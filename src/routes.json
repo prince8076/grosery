@@ -1,0 +1,140 @@
+[
+    {
+        "path": "/",
+        "component": "Home",
+        "page": "Home - My App"
+    },
+    {
+        "path": "/contact",
+        "component": "Contact",
+        "page": "Contact Us - My App"
+    },
+    {
+        "path": "/productdescription/pn/:pn/pid/:id",
+        "component": "ProductDescription",
+        "page": "ProductDescription - My App"
+    },
+    {
+        "path": "/search",
+        "component": "Search",
+        "page": "SearchResult - My App"
+    },
+    
+    {
+        "path": "/addresscontainer",
+        "component": "AddressContainer",
+        "page": "Address container - My App"
+    },
+    {
+        "path": "/productdescription",
+        "component": "ProductDescription",
+        "page": "ProductDescription - My App"
+    },
+   
+    {
+        "path": "/brand/:brand",
+        "component": "Category",
+        "page": "Brand Page - My App"
+    },
+    {
+        "path": "*",
+        "component": "ErrorPage",
+        "page": "Errorpage - My App" 
+    },
+    {
+        "path":"/category",
+        "component":"CategoryPage",
+        "page":"Category Page -My App"
+    },
+    {
+        "path":"/cn/:name/cid/:subID",
+        "component":"CategoryPage",
+        "page":"Category Page -My App"
+    },
+    {
+        "path":"/account",
+        "component":"MyAccountPage",
+         "page":"My Account page -My App",
+         
+         "children":[
+            {
+                "path":"logout",
+                "component":"Logout",
+                 "page":"My Logout Page- My App"
+            },
+            {
+                "path":"address",
+                "component":"MyAddress",
+                 "page":"My Address Page -My App"
+            },
+            {
+                "path":"order",
+                "component":"MyOrders",
+                 "page":"My Orders Page -My App"
+            },
+            {
+                "path":"wallet",
+                "component":"MyWallet",
+                 "page":"My Wallet Page -My App"
+            },
+            {
+                "path":"privacy",
+                "component":"AccountPrivacy",
+                 "page":"My Account Privacy -My App"
+            },
+            {
+                "path":"delete-account",
+                "component":"DeleteAccount",
+                 "page":"My Delete Account -My App"
+            },
+            {
+
+                "path" : "ordertaking",
+                "component":"Order",
+                "page" : "Order Details"
+            },
+           {
+                "path":"profile",
+                "component":"ProfileEdit",
+                "page":"My Profile Edit -My App"
+            },
+            {
+                "path":"ordertrack",
+                "component":"OrderTracking",
+                "page":"My Order Track -My App"
+            }
+            
+         ]       
+         
+         
+    },
+    {
+        "path":"privacy",
+        "component":"Privacypolicy",
+        "page":"My Privacy -My App"
+
+    },
+    {
+        "path":"cancellation",
+        "component":"Cancellationpolicy",
+        "page":"My Cancellation -My App"
+    },
+    {
+        "path":"refund",
+        "component":"Refundpolicy",
+        "page":"My Refund -My App"
+
+    },
+    {
+        "path":"termsandconditions",
+        "component":"TermsandConditions",
+        "page":"My terms -My App"
+    },
+    {
+        "path":"wallet",
+        "component":"Walletpage",
+        "page":"My Wallet Page -My App"
+
+    }
+
+]

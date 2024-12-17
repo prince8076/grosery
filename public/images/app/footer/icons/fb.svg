@@ -1,0 +1,14 @@
+<svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask0_1_999" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="23" height="23">
+<rect x="0.22168" y="0.221191" width="22.5556" height="22.5556" fill="url(#pattern0_1_999)"/>
+</mask>
+<g mask="url(#mask0_1_999)">
+<rect x="-10.7305" y="-5.57739" width="43.8222" height="43.8222" fill="black" fill-opacity="0.8"/>
+</g>
+<defs>
+<pattern id="pattern0_1_999" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_999" transform="scale(0.01)"/>
+</pattern>
+<image id="image0_1_999" width="100" height="100" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAAXNSR0IArs4c6QAAA7ZJREFUeAHtnc+rTV0Yxz+UH/kRbwhlID8y8yrExFQZvX4kpQwNvChGkjJRMjIwIBORX+UPkHqTiSIDCgPyY8BcyUsS0VPn1u1023uf+zzPZu/1XbUH5671PGuvz2efc1r77LUuqIiACIiACIiACIiACIiACIiACEQSmAlsBvYDp4CLwA3gFnBp8PoscAY4CRwDDgPbgOmRJ1Jyrr+Ag8B/wDfg5ySPZ8CakkF6x74UOA98nqSAicS9AuxdpjICganAEeD/QBHj5RwY4VyKbzoPuJMkYkyKfe+oNCCwCHiaLMOkXG5wLsU3mQs8bkGGhDS81K62JENCGgjZ06IMCakRMgt4LyE1lFqstgmfXbVtHudaHF/nunrZsgwTv71zlFo64fW/QcZdwCaeKhMQsJuDbX1UfQEuALMnOA/9aUDgXpCQj4N7XnuBLcDfwIqhY4aoVxOYAnwKEHIfWFDdlWqbEFgSIMNuPi5u0pna1BOwH5m83x8367tRi6YEtgYIOd60M7WrJ2BzAe875N/6btSiKYHdAUL2Ne1M7eoJRAixHCpBBCQkCGRUGgmJIhmUR0KCQEalkZAokkF5JCQIZFQaCYkiGZRHQoJA1qWxm4b2ILQ95Fx1XAuYGFqOqj7G1/1T4sPWNnOOfA7Xe2tlOP4FsLruiupL/Sbge8BVPwwx+rVJmdYX6FXjuN4BGWNyd1QNpC91Tzok5ERfoFeN43mHhBytGkhf6rokZFdfoFeNo0tCNlYNpC91XRJic6Xel64I+QrYI0i9L10R8rr3JgYD7IoQe1qyiNIVIVeKsAE86Mg8xHZ3KKKc7oiQDUXYABYC7/5wKbYXSlFlOXAb+PGHifkw2Iim2CUJ84G1gK2QsmPV0FoNW7sRsbbQcgyvAxl+vayot4RjsPoJ1wEvI1RCMqg6ckqIA15GqIRkUHXklBAHvIxQCcmg6sgpIQ54GaESkkHVkVNCHPAyQiUkg6ojp4Q44GWESkgGVUdOCXHAywiVkAyqjpwS4oCXESohGVQdOSXEAS8jVEIyqDpySogDXkaohGRQdeSUEAe8jFAJyaDqyCkhDngZoRKSQdWRU0Ic8DJCJSSDqiOnhDjgZYRKSAZVR04JccDLCJWQDKqOnBLigJcRKiEZVB05dwassipimyUH45FC1wUIsVVaKkEEbHuLRw4pD0vZIiOId6M0K4G3k5DyZrC2sFEnajQagTnAIcB2WLhVc1gbW+ip/7Q2GmO1FgEREAEREAEREAEREAERKIzAL5see6bsWZblAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>
